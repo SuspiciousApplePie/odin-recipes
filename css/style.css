@@ -10,6 +10,10 @@
     font-family: 'Courier New', 'Verdana', sans-serif;
 }
 
+body {
+    background-color: #D8BFD8;
+}
+
 .title {
     background-color: #9966cc;
     padding: 20px;
