@@ -17,6 +17,7 @@ body {
 .title {
     background-color: #9966cc;
     padding: 20px;
+    text-align: center;
 }
 
 .recipes-list {
