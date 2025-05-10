@@ -8,3 +8,8 @@
     padding: 0;
     margin: 0;
 }
+
+.title {
+    background-color: #686963;
+    padding: 20px;
+}
