@@ -14,7 +14,11 @@
     padding: 20px;
 }
 
+.recipes-list {
+    padding: 20px;
+    margin: 0 10px 10px;
+}
+
 .recipe {
     margin: 10px;
-
 }
