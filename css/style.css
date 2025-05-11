@@ -14,7 +14,8 @@ body {
     background-color: #D8BFD8;
 }
 
-.title, .subtitle {
+.title, 
+.subtitle {
     background-color: #9966cc;
     padding: 20px;
     text-align: center;
@@ -44,12 +45,21 @@ body {
     width: 250px;
 }
 
-.description {
+.description, 
+.ingredients {
     width: 60%;
     margin: 10px auto;
+}
+
+.ingredients {
+    padding: 30px;
 }
 
 .description p {
     padding: 15px;
     text-align: justify;
+}
+
+.ingredients li {
+    padding: 10px;
 }
