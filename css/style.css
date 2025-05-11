@@ -46,12 +46,14 @@ body {
 }
 
 .description, 
-.ingredients {
+.ingredients,
+.steps {
     width: 60%;
     margin: 10px auto;
 }
 
-.ingredients {
+.ingredients,
+.steps {
     padding: 30px;
 }
 
@@ -60,6 +62,7 @@ body {
     text-align: justify;
 }
 
-.ingredients li {
+.ingredients li,
+.steps li {
     padding: 10px;
 }
