@@ -66,3 +66,10 @@ body {
 .steps li {
     padding: 10px;
 }
+
+.home-btn {
+    width: fit-content;
+    padding: 15px;
+    background-color: #9966cc;
+    margin: 10px;
+}
