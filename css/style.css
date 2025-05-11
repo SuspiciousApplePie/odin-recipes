@@ -14,10 +14,15 @@ body {
     background-color: #D8BFD8;
 }
 
-.title {
+.title, .subtitle {
     background-color: #9966cc;
     padding: 20px;
     text-align: center;
+}
+
+.subtitle {
+    width: 30%;
+    margin: 20px auto;
 }
 
 .recipes-list {
